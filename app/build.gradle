@@ -9,7 +9,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        multiDexEnabled true //TAG fix
+        multiDexEnabled true //IMG
     }
     buildTypes {
         release {
@@ -29,7 +29,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:16.0.8' //Firebase
     implementation 'com.google.firebase:firebase-auth:16.2.1' //Firebase Authentication
     implementation 'com.google.firebase:firebase-firestore:18.2.0' //Firebase Database
-    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.android.support:multidex:1.0.3' //IMG
 }
 
 apply plugin: 'com.google.gms.google-services' //Firebase
