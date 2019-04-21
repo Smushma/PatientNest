@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44207626886",
+    "firebase_url": "https://patient-nest-d01de.firebaseio.com",
+    "project_id": "patient-nest-d01de",
+    "storage_bucket": "patient-nest-d01de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44207626886:android:66d7069e153c5ba7",
+        "android_client_info": {
+          "package_name": "com.beachhacks.patientnest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44207626886-k0h7764m9u2rssus1vn8l710v9th6ft6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beachhacks.patientnest",
+            "certificate_hash": "31dab2592dbde14d572eb79f35f56e0d301e63aa"
+          }
+        },
+        {
+          "client_id": "44207626886-uibdgof730cd928k5c5uil7h9a19g22u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYPWeGffplHkr3--AJChm_gOmwoeAxnFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44207626886-uibdgof730cd928k5c5uil7h9a19g22u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
