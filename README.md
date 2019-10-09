@@ -1,5 +1,5 @@
 # PatientNest
-Patient medical information mobile app 
+Patient medical information mobile app. 
 
 <p align="center">
   <img src=https://i.imgur.com/oL6DqV6.png/>
