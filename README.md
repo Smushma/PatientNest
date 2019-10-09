@@ -1,7 +1,7 @@
 # PatientNest
 Patient medical information mobile app 
 
-![PatientNest logo](https://cdn.discordapp.com/attachments/569318157739884546/569620579473424414/logo.png)
+![PatientNest logo](https://imgur.com/a/qtNkEJO)
 
 Inspired by a friend, who was a nurse, was frustrated with the formalities, and book keeping associated with patient care. As well as to get hands-on insight in radio-frequency technology, data processing, and user interaction with modern interfaces. 
 
